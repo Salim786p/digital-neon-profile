@@ -7,6 +7,8 @@
 @layer base {
   :root {
     /* Cyberpunk color palette */
+    color: red;
+    
     --background: 240 6% 6%;
     --foreground: 180 100% 90%;
 
